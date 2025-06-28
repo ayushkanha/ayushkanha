@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ayush Sahu
 I'm a Data Science educator, developer, and AI enthusiast. I help students build real-world projects in data analytics, computer vision, and generative AI.
-![fox-leaves](https://github.com/user-attachments/assets/f2f655c2-03e2-4568-bbca-4c1843050c06)
+![fox-leaves]([https://github.com/user-attachments/assets/f2f655c2-03e2-4568-bbca-4c1843050c06](https://github.com/JieYing-99/JieYing-99/blob/main/images/cat.gif))
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
