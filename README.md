@@ -26,5 +26,5 @@ I'm a Data Science educator, developer, and AI enthusiast. I help students build
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyushSahu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsahu)
-[![Gmail](https://img.shields.io/badge/Gmail-ayushsahu@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ayushsahu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyushSahu-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/ayush-kumar-sahu-299b8b23b)
+[![Gmail](https://img.shields.io/badge/Gmail-ayushsahu@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ayushkanha19@gmail.com)
