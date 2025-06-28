@@ -1,4 +1,4 @@
-![cat](https://github.com/user-attachments/assets/e42163a6-4433-48ec-8358-c95fe8df4dcd)# Hi there! 👋 I'm Ayush Sahu
+# Hi there! 👋 I'm Ayush Sahu
 I'm a Data Science educator, developer, and AI enthusiast. I help students build real-world projects in data analytics, computer vision, and generative AI.
 ![cat](https://github.com/user-attachments/assets/b20bdacf-d651-4f43-8073-e230045bd691)
 
