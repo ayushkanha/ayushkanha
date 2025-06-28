@@ -14,9 +14,9 @@ I'm a Data Science educator, developer, and AI enthusiast. I help students build
 - [🔐 Password Manager](https://github.com/ayushsahu/password-manager): Encrypted password manager using Python, Fernet, and MongoDB.
 
 ### 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushsahu&show_icons=true&theme=radical)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkanha&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsahu&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkanha&layout=compact&theme=radical)
 
 ### 🌱 Currently Building
 
