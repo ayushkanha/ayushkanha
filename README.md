@@ -55,6 +55,7 @@ I'm a Data Science educator, developer, and AI enthusiast. I help students build
 - [🌱 Gardening-Bot](https://github.com/ayushkanha/Gardening-Bot): Automate plant care reminders with email, voice, calendar invites, and graphs using Python.
 - [💰 Price Compair Bot](https://github.com/ayushkanha/price_compair): A Python-based bot to compare product prices across multiple e-commerce websites using web scraping.
 - [💰 BudgetBuddy](https://github.com/ayushkanha/BudgetBuddy): It provides an intuitive interface to manage your daily transactions and visualize your financial health.
+  
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkanha&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkanha&layout=compact&theme=radical)
