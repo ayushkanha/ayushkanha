@@ -311,7 +311,7 @@ Real-time pandemic statistics dashboard
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-00C7B7?style=for-the-badge)](YOUR_PORTFOLIO_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-00C7B7?style=for-the-badge)](https://ayushkanha.github.io/Porfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-sahu-299b8b23b)
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkanha19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushkanha)
