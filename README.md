@@ -4,7 +4,7 @@
 
 ### Data Scientist | AI Engineer | Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge)](YOUR_PORTFOLIO_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge)](https://ayushkanha.github.io/Porfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-sahu-299b8b23b)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkanha19@gmail.com)
 
